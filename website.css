@@ -1,0 +1,40 @@
+.h1{
+    font: 30px;
+}
+
+.headers{
+    font: 50px;
+}
+.CMC{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+}
+.photos{
+    width:200px;
+    height:200px;
+    border-radius:50px;
+}
+.info{  display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+        max-width: 1200px; 
+        margin: 20px auto; 
+}
+
+.web{
+    width:500 px;
+    height:1500 px;
+    text-align: center;
+}
+.bruh{
+    text-align:center;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.youth{
+    text-align: center;
+}
+.p2{
+    margin-bottom: 5px;
+}
